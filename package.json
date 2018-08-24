@@ -2,7 +2,7 @@
   "name": "partner-management-api",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/agencyspotter/partner-management-api.git",
+  "repository": "https://github.com/asafigan/jest-upgrade-issue.git",
   "license": "none",
   "private": true,
   "scripts": {
